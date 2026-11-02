@@ -127,7 +127,7 @@ Through this project, I gained practical experience in:
 
 📚 2nd Year Student
 
-🔗 **GitHub:** [samarth-webdev](https://github.com/PradhumnCodes/Service)
+🔗 **GitHub:** (https://github.com/PradhumnCodes/Service)
 
 📊 **Tableau Public:** [Explore My Dashboard](https://public.tableau.com/views/Electric_Vehicle_Market_Insights_Final_17931252349610/SalesGeography?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
